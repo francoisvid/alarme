@@ -1,0 +1,40 @@
+.body {
+    background-color: #212121;
+    height: 100%;
+    color: white;
+}
+
+#dateTime {
+    border-style: solid;
+    border-color: red;
+    margin-top: 5% !important;
+    margin: auto;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 65%;
+}
+
+
+#heure h1 {
+    font-size: 5em;
+    text-align: center;
+}
+
+#date h3 {
+    text-decoration: underline
+}
+
+#infos h1 {
+    padding-top: 5%;
+    text-align: center;
+}
+
+#pause h3 {
+    padding-top: 5%;
+    text-align: center;
+}
+
+#radio {
+    width: 100%;
+}
